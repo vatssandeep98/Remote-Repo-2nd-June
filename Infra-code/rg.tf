@@ -15,3 +15,9 @@ resource "azurerm_resource_group" "rg2" {
     location = "central india"
   
 }
+
+resource "azurerm_resource_group" "rg23" {
+    name = "dev-rg014"
+    location = "central india"
+  
+}
