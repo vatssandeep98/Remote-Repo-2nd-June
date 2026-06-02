@@ -1,0 +1,5 @@
+resource "azurerm_resource_group" "rg" {
+    name = "dev-rg011"
+    location = "central india"
+  
+}
