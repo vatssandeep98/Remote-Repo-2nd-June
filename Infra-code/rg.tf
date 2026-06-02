@@ -9,3 +9,9 @@ resource "azurerm_resource_group" "rg1" {
     location = "central india"
   
 }
+
+resource "azurerm_resource_group" "rg2" {
+    name = "dev-rg013"
+    location = "central india"
+  
+}
