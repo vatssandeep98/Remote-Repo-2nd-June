@@ -15,3 +15,10 @@ resource "azurerm_resource_group" "rg2" {
     location = "central india"
   
 }
+
+resource "azurerm_resource_group" "rg3" {
+    name = "dev-sandeep"
+    location = "central india"
+  
+}
+##
